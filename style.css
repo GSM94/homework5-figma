@@ -116,6 +116,9 @@ body {
     line-height: 53px;
     color: #000000;
     margin-bottom: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
 }
 
 .main-subtitle {
@@ -172,7 +175,8 @@ body {
     /* or 22px */
     text-align: center;
     color: #AAAAAA;
-    margin-bottom: 39px;
+    padding-bottom: 39px;
+    
     max-width: 310px;
      /*or padding-left: 30px;
     padding-right: 30px; */
