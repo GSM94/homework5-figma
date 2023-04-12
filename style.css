@@ -175,12 +175,10 @@ body {
     /* or 22px */
     text-align: center;
     color: #AAAAAA;
-    padding-bottom: 39px;
     max-width: 310px;
+    margin-bottom: 39px;
      /*or padding-left: 30px;
     padding-right: 30px; */
-
-    
 }
 
 .btn {
