@@ -16,14 +16,12 @@ body {
 .center {
     padding-left: calc(50% - 585px);
     padding-right: calc(50% - 585px);
-
 }
 
 .header-flex {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-
 }
 
 .header-grid {
@@ -32,7 +30,6 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-    
 }
 
 .header-card {
@@ -139,7 +136,6 @@ body {
     gap: 30px;
     margin-bottom: 50px;
     padding-top: 24px;
-    
 }
 
 .main-card {
@@ -151,7 +147,6 @@ body {
     justify-content: flex-end;
     max-width: 370px;
 }
-
 
 #main-card_2 {
     box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
@@ -177,7 +172,7 @@ body {
     color: #AAAAAA;
     max-width: 310px;
     margin-bottom: 39px;
-     /*or padding-left: 30px;
+    /*or padding-left: 30px;
     padding-right: 30px; */
 }
 
