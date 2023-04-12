@@ -188,6 +188,7 @@ body {
     color: #FFFFFF;
     padding: 15px 26px 15px 46px;
     border: none;
+    cursor: pointer;
 }
 
 #icon {
